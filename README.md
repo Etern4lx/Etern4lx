@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 ## 🛡️ Mi Insignia de TryHackMe
 
-<div align="center">
-  <iframe 
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4368390" 
-    style='border:none; width: 300px; height: 100px;' 
-    title="Insignia de perfil de TryHackMe"
-  ></iframe>
-</div>
+<details>
+  <summary>Ver mi progreso en TryHackMe</summary>
+  <p>
+    <iframe 
+      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4368390" 
+      style='border:none; width: 300px; height: 100px;' 
+      title="Insignia de perfil de TryHackMe"
+    ></iframe>
+  </p>
+</details>
