@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 🛡️ Mi Insignia de TryHackMe
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4368390" estilo='border:none;' ></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Etern4lx.png)
 
