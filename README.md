@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 🛡️ Mi Insignia de TryHackMe
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Etern4lx.png)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Etern4lx.png)](https://tryhackme.com/p/Etern4lx)
 
