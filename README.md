@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DE_TU_BANNER_AQUÍ" alt="Banner de Etern4l | Pentesting & Cyber Security Analyst" width="100%">
+  <img src="https://ibb.co/chm7tR1q" alt="Banner de Etern4l | Pentesting & Cyber Security Analyst" width="100%">
   
   # 👋 Hola, soy Etern4l
   
