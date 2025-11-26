@@ -15,15 +15,17 @@
 
 ### 🛡️ Blue Team / Defensa
 
-![Blue Team](https://img.shields.io/badge/SIEM-Splunk-1E90FF?style=for-the-badge) 
+![SIEM](https://img.shields.io/badge/SIEM-Splunk-1E90FF?style=for-the-badge) 
 ![Análisis](https://img.shields.io/badge/Wireshark-An%C3%A1lisis-1E90FF?style=for-the-badge)
 ![Defensa](https://img.shields.io/badge/IDPS-Snort-1E90FF?style=for-the-badge)
+![Honeypot](https://img.shields.io/badge/Honeypot-T--Pot-1E90FF?style=for-the-badge)
 
 ### 🔴 Red Team / Ofensiva
 
 ![Penetration](https://img.shields.io/badge/Pentesting-Burp%20Suite-FF4500?style=for-the-badge)
 ![Exploitation](https://img.shields.io/badge/Exploit-Metasploit-FF4500?style=for-the-badge)
 ![Escaneo](https://img.shields.io/badge/Mapping-Nmap-FF4500?style=for-the-badge)
+![Web-Shell](https://img.shields.io/badge/Post%20Exploit-Web%20Shells-FF4500?style=for-the-badge)
 
 
 ## 📡 Conéctate Conmigo
