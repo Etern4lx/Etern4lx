@@ -33,7 +33,7 @@
 [![Keybase](https://img.shields.io/badge/GPG%20Key-Etern4l-00FFFF?style=for-the-badge)](TU_KEYBASE_AQUÍ)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etern4l&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Etern4l"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Etern4lx&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Etern4l"/>
 </div>
 
 
