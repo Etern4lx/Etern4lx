@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/chm7tR1q" alt="Banner de Etern4l | Pentesting & Cyber Security Analyst" width="100%">
+  <img src="https://private-user-images.githubusercontent.com/106602742/518967484-d8569df7-0326-40a9-a4b7-208d4ff6755a.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxMjY0NzMsIm5iZiI6MTc2NDEyNjE3MywicGF0aCI6Ii8xMDY2MDI3NDIvNTE4OTY3NDg0LWQ4NTY5ZGY3LTAzMjYtNDBhOS1hNGI3LTIwOGQ0ZmY2NzU1YS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTEyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTExMjZUMDMwMjUzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjJjZGMyYjgwMjdiYWMyZmQ0NjEzM2JhYTJiODkzODE2ODBhY2ExOTVhNzU2OWE2NmRmNWQ2MDk3YjhiY2FmNiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.RmguK3fcGpvv4bQNPF8-aE1fTqYUEFJaKHQUS4OI3CE" alt="Banner de Etern4l | Pentesting & Cyber Security Analyst" width="100%">
   
   # 👋 Hola, soy Etern4l
   
