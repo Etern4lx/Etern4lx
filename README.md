@@ -5,7 +5,7 @@
   
   ### Pentesting & Cyber Security Analyst
   
-  <p>Estudiante apasionado por la seguridad ofensiva y defensiva. Mi misión es construir defensas más fuertes entendiendo al atacante (Red Team) y fortalecer la infraestructura con un enfoque proactivo (Blue Team).</p>
+  <p>Estudiante apasionado por la seguridad ofensiva y defensiva. 
   
   ---
 </div>
