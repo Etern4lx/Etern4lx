@@ -52,9 +52,18 @@ Actualmente mejorando metodologías ofensivas, reporting y tooling personalizado
 
 ## Current Goals
 
-```ansi
-[1;31mEtern4lx@github[0m:~$ CPTS
-[1;31mEtern4lx@github[0m:~$ OSCP
-[1;31mEtern4lx@github[0m:~$ Advanced Active Directory
-[1;31mEtern4lx@github[0m:~$ Reporting & Methodology
-[1;31mEtern4lx@github[0m:~$ Custom Tool Development
+```console
+┌──(Etern4lx㉿github)-[~]
+└─$ CPTS
+
+┌──(Etern4lx㉿github)-[~]
+└─$ OSCP
+
+┌──(Etern4lx㉿github)-[~]
+└─$ Advanced Active Directory
+
+┌──(Etern4lx㉿github)-[~]
+└─$ Reporting & Methodology
+
+┌──(Etern4lx㉿github)-[~]
+└─$ Custom Tool Development
