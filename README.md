@@ -2,6 +2,7 @@
 
 <p align="center">
   Offensive Security · Active Directory · Web & API Security
+  Toda mi documentacion sobre laboratorios de pentesting resueltos se encuentran en: https://github.com/Etern4lx/Pentesting-Labs
 </p>
 
 <p align="center">
