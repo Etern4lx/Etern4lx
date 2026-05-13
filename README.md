@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://TU-LINK-EWPTX" target="_blank">
+  <a href="certs.ine.com/3f1f5788-fa0a-48e3-8c45-d233f445a07e#acc.DPRvmGrx" target="_blank">
     <img src="https://img.shields.io/badge/eWPTXv3-8B0000?style=for-the-badge&labelColor=111111&color=8B0000" />
   </a>&nbsp;
 
-  <a href="https://TU-LINK-ECPPT" target="_blank">
+  <a href="https://certs.ine.com/c6966a37-2920-4d49-90e4-c12ed9a3da39#acc.qP1HE5Gn" target="_blank">
     <img src="https://img.shields.io/badge/eCPPT-5A0000?style=for-the-badge&labelColor=111111&color=5A0000" />
   </a>&nbsp;
 
-  <a href="https://TU-LINK-EJPT" target="_blank">
+  <a href="https://certs.ine.com/e2f0f464-8ed9-486b-8648-820df8ab5696#acc.AiHx2E4G" target="_blank">
     <img src="https://img.shields.io/badge/eJPTv2-2B2B2B?style=for-the-badge&labelColor=111111&color=2B2B2B" />
   </a>
 </p>
