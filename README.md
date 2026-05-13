@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://certs.ine.com/3f1f5788-fa0a-48e3-8c45-d233f445a07e#acc.tDwifOvC" target="_blank">
-    <img src="https://img.shields.io/badge/eWPTXv3-8B0000?style=for-the-badge&labelColor=111111&color=8B0000" />
+    <img src="https://img.shields.io/badge/eWPTXv3-darkred?style=for-the-badge">
   </a>&nbsp;
 
   <a href="https://certs.ine.com/c6966a37-2920-4d49-90e4-c12ed9a3da39#acc.qP1HE5Gn" target="_blank">
