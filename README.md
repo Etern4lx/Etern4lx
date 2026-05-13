@@ -1,16 +1,36 @@
-## Hi there 👋
+# Álvaro | Pentester
 
-<!--
-**Etern4lx/Etern4lx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Offensive Security enthusiast focused on Web Applications, Active Directory and Internal Pentesting.
 
-Here are some ideas to get you started:
+## Certifications
+- eWPTXv3
+- eCPPT
+- eJPTv2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Active Directory Attacks
+- Internal Pentesting
+- Web Application Security
+- API Security
+- Privilege Escalation
+- Post-Exploitation
+
+## Tools & Technologies
+- Burp Suite
+- Nmap
+- BloodHound
+- Linux
+- Bash/Python
+- Metasploit
+
+## Current Goals
+- CPTS / OSCP
+- Advanced Active Directory
+- Reporting & Methodology
+- Custom tooling and automation
+
+## Labs & Writeups
+- Hack The Box
+- Proving Grounds
+- Custom Labs
+- Security Notes & Methodologies
