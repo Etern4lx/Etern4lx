@@ -54,9 +54,8 @@ Actualmente mejorando metodologías ofensivas, reporting y tooling personalizado
 
 ## Current Goals
 
-```zsh
-Etern4lx@github % CPTS
-Etern4lx@github % OSCP
-Etern4lx@github % Advanced Active Directory
-Etern4lx@github % Reporting & Methodology
-Etern4lx@github % Custom Tool Development
+```console
+etern4lx@gitub:~$ CPTS / OSCP / CRTP / CRTO
+
+
+
