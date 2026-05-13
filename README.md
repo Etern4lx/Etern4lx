@@ -1,33 +1,60 @@
 <h1 align="center">Álvaro | Pentester</h1>
 
 <p align="center">
-Offensive Security · Active Directory · Web & API Security
+  Offensive Security · Active Directory · Web & API Security
 </p>
 
 <p align="center">
-  <a href="https://TU-LINK-VALIDACION-EWPTX">
-    <img src="https://img.shields.io/badge/eWPTXv3-8B0000?style=for-the-badge&logoColor=white" />
-  </a>
+  <a href="https://TU-LINK-EWPTX" target="_blank">
+    <img src="https://img.shields.io/badge/eWPTXv3-8B0000?style=for-the-badge&labelColor=111111&color=8B0000" />
+  </a>&nbsp;
 
-  <a href="https://TU-LINK-VALIDACION-ECPPT">
-    <img src="https://img.shields.io/badge/eCPPT-550000?style=for-the-badge&logoColor=white" />
-  </a>
+  <a href="https://TU-LINK-ECPPT" target="_blank">
+    <img src="https://img.shields.io/badge/eCPPT-5A0000?style=for-the-badge&labelColor=111111&color=5A0000" />
+  </a>&nbsp;
 
-  <a href="https://TU-LINK-VALIDACION-EJPT">
-    <img src="https://img.shields.io/badge/eJPTv2-1a1a1a?style=for-the-badge&logoColor=white" />
+  <a href="https://TU-LINK-EJPT" target="_blank">
+    <img src="https://img.shields.io/badge/eJPTv2-2B2B2B?style=for-the-badge&labelColor=111111&color=2B2B2B" />
   </a>
 </p>
 
 ---
 
-```console
-alvaro@eternal:~$ whoami
-Pentester
+## About Me
 
-alvaro@eternal:~$ focus
-Active Directory
-Internal Pentesting
-Web Application Security
-API Security
-Privilege Escalation
-Post-Exploitation
+Pentester focused on:
+
+- Active Directory Attacks
+- Internal Pentesting
+- Web Application Security
+- API Security
+- Privilege Escalation
+- Post-Exploitation
+
+Actualmente mejorando metodologías ofensivas, reporting y tooling personalizado.
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,vscode" />
+</p>
+
+| Offensive Security | Infrastructure | Scripting |
+|---|---|---|
+| Burp Suite | Linux | Bash |
+| BloodHound | Docker | Python |
+| Metasploit | Git | Automation |
+| Nmap | Virtualization | Custom Tooling |
+
+---
+
+## Current Goals
+
+```ansi
+[1;31mEtern4lx@github[0m:~$ CPTS
+[1;31mEtern4lx@github[0m:~$ OSCP
+[1;31mEtern4lx@github[0m:~$ Advanced Active Directory
+[1;31mEtern4lx@github[0m:~$ Reporting & Methodology
+[1;31mEtern4lx@github[0m:~$ Custom Tool Development
