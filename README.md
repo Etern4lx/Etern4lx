@@ -2,7 +2,7 @@
 
 <p align="center">
   Offensive Security · Active Directory · Web & API Security
-  Toda mi documentacion sobre laboratorios de pentesting resueltos se encuentran en: https://github.com/Etern4lx/Pentesting-Labs
+ 
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
   <a href="https://certs.ine.com/e2f0f464-8ed9-486b-8648-820df8ab5696#acc.AiHx2E4G" target="_blank">
     <img src="https://img.shields.io/badge/eJPTv2-2B2B2B?style=for-the-badge&labelColor=111111&color=2B2B2B" />
   </a>
+   Toda mi documentacion sobre laboratorios de pentesting resueltos se encuentran en: https://github.com/Etern4lx/Pentesting-Labs
 </p>
 
 ---
