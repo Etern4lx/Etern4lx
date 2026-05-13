@@ -1,36 +1,23 @@
-# Álvaro | Pentester
+<h1 align="center">Álvaro | Pentester</h1>
 
-Offensive Security enthusiast focused on Web Applications, Active Directory and Internal Pentesting.
+<p align="center">
+Offensive Security · Active Directory · Web & API Security
+</p>
 
-## Certifications
-- eWPTXv3
-- eCPPT
-- eJPTv2
+<p align="center">
+  <img src="https://img.shields.io/badge/eWPTXv3-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/eCPPT-darkred?style=for-the-badge">
+  <img src="https://img.shields.io/badge/eJPTv2-black?style=for-the-badge">
+</p>
+
+---
 
 ## Areas of Interest
-- Active Directory Attacks
-- Internal Pentesting
-- Web Application Security
-- API Security
-- Privilege Escalation
-- Post-Exploitation
 
-## Tools & Technologies
-- Burp Suite
-- Nmap
-- BloodHound
-- Linux
-- Bash/Python
-- Metasploit
-
-## Current Goals
-- CPTS / OSCP
-- Advanced Active Directory
-- Reporting & Methodology
-- Custom tooling and automation
-
-## Labs & Writeups
-- Hack The Box
-- Proving Grounds
-- Custom Labs
-- Security Notes & Methodologies
+```diff
++ Active Directory Attacks
++ Internal Pentesting
++ Web Application Security
++ API Security
++ Privilege Escalation
++ Post-Exploitation
