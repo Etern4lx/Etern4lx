@@ -50,7 +50,6 @@ Actualmente mejorando metodologías ofensivas, reporting y tooling personalizado
 
 ---
 
-## Current Goals
 
 ## Current Goals
 
