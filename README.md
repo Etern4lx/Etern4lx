@@ -44,12 +44,12 @@ Actualmente mejorando metodologías ofensivas, reporting y tooling personalizado
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,vscode" />
 </p>
 
-| Offensive Security | Infrastructure | Scripting |
-|---|---|---|
-| Burp Suite | Linux | Bash |
-| BloodHound | Docker | Python |
-| Metasploit | Git | Automation |
-| Nmap | Virtualization | Custom Tooling |
+| Offensive Security |
+|---|---|--|---------|
+| Burp Suite | Linux | 
+| BloodHound | Hydra |
+| Metasploit | Gobuster |
+| Nmap | Virtualization |
 
 ---
 
