@@ -36,22 +36,6 @@ Pentester focused on:
 
 Actualmente mejorando metodologías ofensivas, reporting y tooling personalizado.
 
----
-
-## Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,vscode" />
-</p>
-
-| Offensive Security |
-|---|---|--|---------|
-| Burp Suite | Linux | 
-| BloodHound | Hydra |
-| Metasploit | Gobuster |
-| Nmap | Virtualization |
-
----
 
 
 ## Current Goals
